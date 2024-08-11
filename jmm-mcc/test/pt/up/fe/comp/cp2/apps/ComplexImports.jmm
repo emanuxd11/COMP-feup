@@ -1,0 +1,7 @@
+import a.b.C;
+import d.e.F;
+import g.h.i.j.k.l.m.n.o.p.q.r.s.t.u.v.w.x.y.Zigma;
+
+class Abc extends Zigma {
+    public static void main(String[] args) { }
+}
